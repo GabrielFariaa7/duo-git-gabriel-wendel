@@ -1,2 +1,2 @@
-# duo-git-nomedasduplas
+# Teste de repositório em dupla - Gabriel e Wendel
 Teste repositório gihub em dupla.
